@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/866779694.svg)](https://doi.org/10.5281/zenodo.13883278)
+
 **Quality Measure Adherence and Oral Health Outcomes in Children**
 
 Sung Eun Choi, SM, PhD1, Ankur Pandya, PhD2, Joel White, MS, DDS3, Elizabeth Mertz, MA, PhD3, Sharon-Lise Normand, PhD4,5
